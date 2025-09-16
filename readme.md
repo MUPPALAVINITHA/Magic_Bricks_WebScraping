@@ -130,7 +130,7 @@ Identifies high-demand rental hotspots.
 Useful for comparing rent concentration across cities.
 
 <img width="845" height="79" alt="image" src="https://github.com/user-attachments/assets/b99f73f2-917e-4d3b-aa25-2ae86e957947" />
-<img width="917" height="350" alt="image" src="https://github.com/user-attachments/assets/abf9447e-a304-4f2a-806a-73674047ba68" />
+<img width="917" height="300" alt="image" src="https://github.com/user-attachments/assets/abf9447e-a304-4f2a-806a-73674047ba68" />
 
 ### Average Rent Comparison by Property Type 
 ##### Key Insights: Key Insights:  
