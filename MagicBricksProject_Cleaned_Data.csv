@@ -1,0 +1,816 @@
+City,BHK,Location,Price,Area (sqft),Property Type,Furnishing,Property Facing
+Hyderabad,1,Kondapur,20100,450,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,69000,1880,Flat,Furnished,East
+Hyderabad,3,Kokapet,65000,1769,Flat,Semi-Furnished,East
+Hyderabad,3,Kokapet,55000,894,Flat,Semi-Furnished,East
+Hyderabad,3,Kokapet,70000,1565,Flat,Semi-Furnished,East
+Hyderabad,4,Kondapur,75000,2800,Villa,Furnished,East
+Hyderabad,3,Kokapet,60000,1957,Flat,Semi-Furnished,East
+Hyderabad,4,Tellapur,80000,3000,Villa,Semi-Furnished,North
+Hyderabad,4,Kokapet,100000,2610,Flat,Furnished,East
+Hyderabad,3,Kondapur,58000,1800,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,50000,1777,Flat,Semi-Furnished,West
+Hyderabad,4,Kondapur,50000,3200,Villa,Semi-Furnished,East
+Hyderabad,4,Kondapur,30000,2400,Villa,Furnished,West
+Hyderabad,2,Kondapur,10000,1355,House,Semi-Furnished,West
+Hyderabad,4,Kondapur,50000,2700,House,Semi-Furnished,West
+Hyderabad,2,Kondapur,20000,1175,Flat,Unfurnished,North - East
+Hyderabad,3,Narsingi,70000,1715,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,45000,1350,Flat,Semi-Furnished,North - East
+Hyderabad,3,Manikonda,85000,2605,Flat,Furnished,West
+Hyderabad,4,Kondapur,100000,3000,Villa,Furnished,East
+Hyderabad,2,Manikonda,53000,1319,Flat,Semi-Furnished,East
+Hyderabad,4,Kondapur,35000,2800,Villa,Semi-Furnished,East
+Hyderabad,3,Kondapur,75000,2452,Flat,Furnished,East
+Hyderabad,2,Kondapur,10000,800,House,Semi-Furnished,East
+Hyderabad,3,Miyapur,25000,1000,House,Semi-Furnished,East
+Hyderabad,3,Kondapur,50000,1860,Flat,Semi-Furnished,North
+Hyderabad,2,Gachibowli,51000,1100,Flat,Unfurnished,East
+Hyderabad,4,Kondapur,90000,3000,Villa,Semi-Furnished,West
+Hyderabad,3,Kondapur,73000,2813,Flat,Furnished,West
+Hyderabad,3,Kondapur,70000,1610,Flat,Unfurnished,East
+Hyderabad,3,Kondapur,65000,1511,Flat,Semi-Furnished,East
+Hyderabad,4,Narsingi,70000,2500,Flat,Semi-Furnished,West
+Hyderabad,3,Nalagandla,55000,1300,Flat,Semi-Furnished,West
+Hyderabad,3,Gachibowli,70000,2300,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,83000,2653,Villa,Semi-Furnished,West
+Hyderabad,2,Kondapur,57000,1100,Flat,Furnished,West
+Hyderabad,4,Kondapur,40000,2800,Villa,Furnished,East
+Hyderabad,3,Nalagandla,60000,1530,Flat,Semi-Furnished,East
+Hyderabad,4,Kondapur,130000,2928,Flat,Semi-Furnished,West
+Hyderabad,3,Kondapur,60000,2200,Flat,Semi-Furnished,West
+Hyderabad,4,Kondapur,45000,2312,Villa,Semi-Furnished,West
+Hyderabad,2,Gachibowli,55000,1283,Flat,Semi-Furnished,East
+Hyderabad,2,Gachibowli,67000,1599,Flat,Furnished,East
+Hyderabad,3,Kondapur,79000,2235,Flat,Semi-Furnished,West
+Hyderabad,2,Kondapur,30000,909,Flat,Semi-Furnished,East
+Hyderabad,3,Bachupally,42000,2007,House,Semi-Furnished,East
+Hyderabad,3,Kollur,70000,3079,Villa,Semi-Furnished,East
+Hyderabad,3,Kondapur,26000,1400,Flat,Semi-Furnished,East
+Hyderabad,1,Gachibowli,25000,500,Flat,Furnished,East
+Hyderabad,3,Kondapur,40000,1856,Flat,Semi-Furnished,East
+Hyderabad,2,Kondapur,12000,100,House,Semi-Furnished,East
+Hyderabad,4,Madhapur,80000,1800,Flat,Furnished,East
+Hyderabad,3,Kondapur,65000,1969,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,28000,1700,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,35000,1800,Villa,Semi-Furnished,East
+Hyderabad,3,Kondapur,15000,200,House,Semi-Furnished,East
+Hyderabad,3,Hitech City,45000,1450,Flat,Semi-Furnished,East
+Hyderabad,2,Kondapur,12500,1400,Villa,Unfurnished,North - East
+Hyderabad,3,Kondapur,25000,1400,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,33000,1790,Flat,Unfurnished,West
+Hyderabad,4,Miyapur,60000,3000,House,Unfurnished,East
+Hyderabad,3,Kondapur,32500,1350,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,42999,1700,Flat,Semi-Furnished,West
+Hyderabad,3,Kondapur,24000,1300,Flat,Semi-Furnished,North - East
+Hyderabad,3,Kokapet,65000,1764,Flat,Semi-Furnished,East
+Hyderabad,2,Kondapur,62000,1297,Flat,Furnished,East
+Hyderabad,2,Kondapur,21000,1100,Flat,Unfurnished,East
+Hyderabad,2,Kondapur,19000,1200,Flat,Semi-Furnished,East
+Hyderabad,2,Kondapur,50000,1200,Flat,Furnished,East
+Hyderabad,3,Kondapur,21000,1400,Flat,Unfurnished,East
+Hyderabad,2,Kondapur,16000,950,House,Unfurnished,East
+Hyderabad,2,Kondapur,40000,1100,Flat,Furnished,West
+Hyderabad,3,Kondapur,25000,1600,Flat,Semi-Furnished,West
+Hyderabad,3,Kondapur,62000,1700,Flat,Furnished,North - East
+Hyderabad,3,Tellapur,48500,1800,Flat,Semi-Furnished,East
+Hyderabad,3,Gachibowli,70000,1750,Flat,Furnished,East
+Hyderabad,3,Kondapur,85000,2500,Flat,Semi-Furnished,East
+Hyderabad,2,Kondapur,21000,1200,Flat,Unfurnished,West
+Hyderabad,3,Miyapur,30000,1580,Flat,Furnished,West
+Hyderabad,3,Kondapur,55000,2400,Villa,Furnished,West
+Hyderabad,3,Bachupally,55000,3000,Villa,Furnished,East
+Hyderabad,3,Kondapur,42000,2384,Villa,Semi-Furnished,East
+Hyderabad,3,Kondapur,40000,1400,Flat,Furnished,East
+Hyderabad,3,Kondapur,30000,1800,House,Furnished,North - East
+Hyderabad,3,Kondapur,75000,2500,Flat,Semi-Furnished,South
+Hyderabad,3,Kondapur,45000,2500,Flat,Semi-Furnished,West
+Hyderabad,3,Kondapur,48000,2250,House,Semi-Furnished,East
+Hyderabad,3,Kondapur,48000,1650,Flat,Furnished,East
+Hyderabad,3,Kondapur,44000,1750,Flat,Furnished,East
+Hyderabad,3,Manikonda,35000,1500,Flat,Semi-Furnished,South
+Hyderabad,3,Kondapur,110000,1950,Flat,Furnished,West
+Hyderabad,1,Kondapur,15000,425,House,Semi-Furnished,East
+Hyderabad,3,Narsingi,70000,1700,Flat,Semi-Furnished,East
+Hyderabad,2,Kondapur,30000,2100,House,Semi-Furnished,East
+Hyderabad,3,Kondapur,55000,1232,Flat,Furnished,East
+Hyderabad,3,Kondapur,55000,1900,Villa,Semi-Furnished,South - East
+Hyderabad,3,Shamshabad,35000,2000,Flat,Unfurnished,East
+Hyderabad,3,Kondapur,75000,1899,Flat,Furnished,East
+Hyderabad,2,Gachibowli,48000,1283,Flat,Semi-Furnished,East
+Hyderabad,3,Kompally,48000,1500,Flat,Semi-Furnished,North - East
+Hyderabad,3,Kompally,30000,2400,Flat,Semi-Furnished,North - East
+Hyderabad,1,Kondapur,13500,450,House,Semi-Furnished,East
+Hyderabad,3,Kondapur,25000,1450,House,Unfurnished,North
+Hyderabad,3,Kondapur,30000,1100,Flat,Furnished,East
+Hyderabad,3,Kondapur,35000,3000,Villa,Semi-Furnished,West
+Hyderabad,2,Kondapur,23000,1080,Flat,Semi-Furnished,North
+Hyderabad,3,Kondapur,21000,195,House,Semi-Furnished,West
+Hyderabad,3,Kondapur,30000,2500,Villa,Semi-Furnished,East
+Hyderabad,3,Kondapur,75000,1800,Villa,Furnished,West
+Hyderabad,3,Narsingi,68000,1620,Flat,Semi-Furnished,West
+Hyderabad,3,Kondapur,15000,1300,House,Semi-Furnished,North
+Hyderabad,3,Tellapur,42000,1600,Flat,Semi-Furnished,West
+Hyderabad,2,Kondapur,17500,950,House,Semi-Furnished,East
+Hyderabad,2,Kondapur,27000,1100,Flat,Semi-Furnished,East
+Hyderabad,3,Nalagandla,40000,1150,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,67500,1798,Flat,Semi-Furnished,East
+Hyderabad,2,Kondapur,35000,1115,Flat,Semi-Furnished,West
+Hyderabad,3,Kondapur,39000,1156,Flat,Semi-Furnished,West
+Hyderabad,3,Kondapur,18000,265,House,Semi-Furnished,North - East
+Hyderabad,4,Kondapur,120000,2800,Flat,Semi-Furnished,North - West
+Hyderabad,3,Kondapur,15000,1425,Flat,Semi-Furnished,East
+Hyderabad,2,Kondapur,20000,1000,Flat,Semi-Furnished,South
+Hyderabad,4,Gachibowli,85000,2675,Flat,Semi-Furnished,West
+Hyderabad,4,Kondapur,45000,2800,Villa,Semi-Furnished,East
+Hyderabad,2,Madhapur,37000,950,Flat,Furnished,East
+Hyderabad,2,Kondapur,9500,761,Flat,Semi-Furnished,South
+Hyderabad,3,Kondapur,32000,1700,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,65000,2458,Flat,Semi-Furnished,West
+Hyderabad,3,Bachupally,32000,1356,Flat,Semi-Furnished,West
+Hyderabad,3,Kondapur,70000,1880,Flat,Semi-Furnished,West
+Hyderabad,1,Kondapur,22000,550,Flat,Furnished,East
+Hyderabad,3,Kondapur,55000,1800,Flat,Semi-Furnished,East
+Hyderabad,3,Kokapet,100000,1896,Flat,Semi-Furnished,East
+Hyderabad,3,Hitech City,40000,1515,Flat,Semi-Furnished,East
+Hyderabad,3,Kokapet,80000,1900,Flat,Semi-Furnished,West
+Hyderabad,4,Kondapur,65000,2000,Flat,Semi-Furnished,West
+Hyderabad,2,Gachibowli,50000,1600,Flat,Unfurnished,North
+Hyderabad,3,Kondapur,65000,2300,Flat,Semi-Furnished,East
+Hyderabad,3,Narsingi,75000,2335,Flat,Furnished,West
+Hyderabad,3,Nalagandla,45000,1860,Flat,Semi-Furnished,West
+Hyderabad,3,Kokapet,58000,1390,Flat,Unfurnished,East
+Hyderabad,3,Narsingi,70000,1715,Flat,Semi-Furnished,West
+Hyderabad,3,Kokapet,60000,2235,Flat,Semi-Furnished,East
+Hyderabad,3,Manikonda,57000,1621,Flat,Semi-Furnished,West
+Hyderabad,2,Narsingi,50000,1314,Flat,Furnished,East
+Hyderabad,3,Kondapur,70000,2100,Flat,Furnished,East
+Hyderabad,3,Kondapur,25000,1568,Villa,Semi-Furnished,East
+Hyderabad,3,Kondapur,60000,1900,Flat,Semi-Furnished,West
+Hyderabad,3,Nalagandla,46000,1860,Flat,Semi-Furnished,East
+Hyderabad,3,Narsingi,65000,2020,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,70000,1200,Flat,Furnished,East
+Hyderabad,3,Narsingi,68000,1715,Flat,Semi-Furnished,West
+Hyderabad,3,Kondapur,43000,1500,Flat,Semi-Furnished,East
+Hyderabad,2,Kondapur,60000,1235,Flat,Semi-Furnished,East
+Hyderabad,2,Gachibowli,47000,1283,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,83000,1345,Flat,Semi-Furnished,North
+Hyderabad,1,Kondapur,19000,400,Flat,Semi-Furnished,East
+Hyderabad,3,Kokapet,62000,2130,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,36000,1750,Flat,Semi-Furnished,North - East
+Hyderabad,3,Kokapet,65000,1350,Flat,Semi-Furnished,North - East
+Hyderabad,3,Narsingi,85000,1210,Flat,Semi-Furnished,East
+Hyderabad,3,Kondapur,50000,1600,Flat,Semi-Furnished,East
+Bangalore,3,Hebbal,59000,985,Flat,Unfurnished,East
+Bangalore,4,Rajajinagar,120000,2000,Flat,Semi-Furnished,East
+Bangalore,3,Bannerghatta Main Road,65000,1400,Flat,Semi-Furnished,North - East
+Bangalore,4,Whitefield,130000,3122,Flat,Semi-Furnished,South - East
+Bangalore,3,Whitefield,45000,2100,House,Semi-Furnished,North
+Bangalore,2,Whitefield,25000,800,House,Semi-Furnished,North
+Bangalore,3,Kanakapura Road,68000,1200,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,42000,872,Flat,Semi-Furnished,North
+Bangalore,4,Whitefield,130000,2111,Villa,Furnished,North - East
+Bangalore,2,Kanakapura Road,52000,1218,Flat,Semi-Furnished,North - East
+Bangalore,3,Hebbal,50000,1320,Flat,Semi-Furnished,East
+Bangalore,3,Hebbal,58000,1250,Flat,Unfurnished,West
+Bangalore,3,Whitefield,65000,1490,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,68900,1507,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,75000,1344,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,60000,2100,Flat,Semi-Furnished,South
+Bangalore,2,Whitefield,65000,1285,Flat,Semi-Furnished,North
+Bangalore,3,Whitefield,75000,1500,Flat,Semi-Furnished,North - East
+Bangalore,3,Whitefield,50000,1660,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,69400,2400,Flat,Semi-Furnished,North
+Bangalore,3,Whitefield,22500,628,Flat,Semi-Furnished,North - West
+Bangalore,1,Whitefield,150000,900,Flat,Furnished,East
+Bangalore,3,Whitefield,40000,1100,Flat,Furnished,North - West
+Bangalore,3,Hebbal,60000,924,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,46000,1200,Flat,Semi-Furnished,East
+Bangalore,3,Sarjapur,70000,1798,Flat,Unfurnished,East
+Bangalore,2,Whitefield,85000,1400,Flat,Furnished,North
+Bangalore,2,Electronic City,28400,1400,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,90000,2360,Villa,Furnished,East
+Bangalore,3,Whitefield,87600,2016,Flat,Semi-Furnished,West
+Bangalore,4,Whitefield,120000,1878,Flat,Semi-Furnished,South -West
+Bangalore,2,Whitefield,38000,1650,House,Semi-Furnished,East
+Bangalore,3,Whitefield,65000,1650,Flat,Furnished,East
+Bangalore,2,Whitefield,55000,907,Flat,Furnished,West
+Bangalore,2,Whitefield,29999,850,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,50000,900,Flat,Furnished,South
+Bangalore,3,Whitefield,67000,1400,Flat,Semi-Furnished,East
+Bangalore,3,Sarjapur,73000,1092,Flat,Furnished,East
+Bangalore,2,Whitefield,37000,626,Flat,Unfurnished,East
+Bangalore,2,Whitefield,45000,700,Flat,Semi-Furnished,North
+Bangalore,3,Whitefield,70000,1350,Flat,Unfurnished,East
+Bangalore,3,Whitefield,51000,1500,Flat,Semi-Furnished,East
+Bangalore,4,Rajajinagar,170000,3000,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,60000,1350,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,62000,1680,Flat,Semi-Furnished,North
+Bangalore,3,Sarjapur,60000,1100,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,42000,824,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,65000,1740,Flat,Semi-Furnished,East
+Bangalore,3,Hebbal,45000,1000,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,46000,1012,Flat,Furnished,East
+Bangalore,2,Whitefield,70000,937,Flat,Semi-Furnished,West
+Bangalore,3,Rajajinagar,170000,1900,Flat,Unfurnished,East
+Bangalore,3,Rajajinagar,80000,1400,Flat,Semi-Furnished,South - East
+Bangalore,3,Hebbal,78000,1134,Flat,Semi-Furnished,East
+Bangalore,3,Yelahanka,56000,2159,Flat,Furnished,East
+Bangalore,3,Whitefield,52500,1400,Flat,Semi-Furnished,East
+Bangalore,2,Devanahalli,30000,1360,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,75000,1700,Flat,Furnished,East
+Bangalore,3,Whitefield,70000,1115,Flat,Semi-Furnished,North
+Bangalore,2,Whitefield,29000,1200,Flat,Semi-Furnished,West
+Bangalore,2,Varthur,20000,1100,Flat,Semi-Furnished,East
+Bangalore,4,Whitefield,100000,1706,Flat,Furnished,East
+Bangalore,3,Whitefield,38000,985,Flat,Semi-Furnished,North
+Bangalore,3,Sarjapur,65000,1252,Flat,Semi-Furnished,East
+Bangalore,3,Sarjapur,95000,2007,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,65000,1700,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,34000,471,Flat,Furnished,West
+Bangalore,3,Whitefield,35000,996,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,60000,1099,Flat,Furnished,East
+Bangalore,2,Whitefield,55000,1180,Flat,Semi-Furnished,North
+Bangalore,3,Whitefield,85000,1300,Flat,Semi-Furnished,North
+Bangalore,3,Whitefield,140000,1330,Flat,Furnished,North - West
+Bangalore,3,Whitefield,80000,2000,Flat,Semi-Furnished,North
+Bangalore,3,Devanahalli,30000,1157,Flat,Unfurnished,North
+Bangalore,3,Hebbal,55000,970,Flat,Semi-Furnished,West
+Bangalore,2,Electronic City,22000,1312,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,95000,2300,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,37000,1500,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,40000,1450,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,34000,1150,Flat,Furnished,West
+Bangalore,2,Whitefield,65000,877,Flat,Semi-Furnished,West
+Bangalore,3,Whitefield,17999,1411,Flat,Furnished,East
+Bangalore,2,Electronic City,32000,900,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,45000,1230,Flat,Semi-Furnished,West
+Bangalore,2,Whitefield,40000,1050,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,25000,1120,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,60000,1600,Flat,Furnished,East
+Bangalore,3,Whitefield,40000,1200,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,60000,1430,Flat,Unfurnished,East
+Bangalore,2,Whitefield,32000,1061,Flat,Unfurnished,West
+Bangalore,2,Sarjapur,48000,910,Flat,Semi-Furnished,West
+Bangalore,2,Bannerghatta Main Road,32000,800,Flat,Semi-Furnished,West
+Bangalore,3,Whitefield,68000,1790,Flat,Semi-Furnished,West
+Bangalore,3,Whitefield,45000,1092,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,43000,1480,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,90000,2300,Villa,Furnished,East
+Bangalore,3,Sarjapur,45000,1450,Flat,Furnished,North
+Bangalore,3,Hebbal,100000,2500,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,50000,1360,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,46000,1430,Flat,Semi-Furnished,North - East
+Bangalore,3,Whitefield,58000,1320,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,62000,1450,Flat,Furnished,East
+Bangalore,3,Varthur,63000,1207,Flat,Unfurnished,West
+Bangalore,3,Hebbal,90000,2513,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,58000,989,Flat,Semi-Furnished,North - East
+Bangalore,3,Whitefield,60000,1800,Flat,Unfurnished,East
+Bangalore,3,Whitefield,65000,2000,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,49000,850,Flat,Furnished,North - East
+Bangalore,3,Whitefield,65000,1077,Flat,Semi-Furnished,North - East
+Bangalore,1,Whitefield,22000,589,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,38000,1500,Flat,Furnished,South
+Bangalore,3,Whitefield,82000,1700,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,30000,650,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,90000,1550,Flat,Semi-Furnished,North - East
+Bangalore,3,Whitefield,90000,2072,Flat,Semi-Furnished,South
+Bangalore,3,Whitefield,56000,1844,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,65000,1750,Flat,Semi-Furnished,North
+Bangalore,4,Whitefield,120000,3000,Flat,Semi-Furnished,North - West
+Bangalore,2,Whitefield,46000,1375,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,50000,2000,House,Semi-Furnished,North
+Bangalore,2,Whitefield,45000,1215,Flat,Semi-Furnished,East
+Bangalore,3,Electronic City,40000,1120,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,40000,1055,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,35000,832,Flat,Unfurnished,East
+Bangalore,2,Whitefield,25000,850,Flat,Semi-Furnished,West
+Bangalore,3,Whitefield,80000,1400,Flat,Unfurnished,East
+Bangalore,3,Whitefield,75000,1900,Flat,Furnished,North
+Bangalore,3,Whitefield,65000,1950,Flat,Semi-Furnished,East
+Bangalore,2,Sarjapur,60000,1450,Flat,Unfurnished,North
+Bangalore,3,Whitefield,75000,1850,Flat,Semi-Furnished,North
+Bangalore,4,Whitefield,68000,1600,Villa,Semi-Furnished,East
+Bangalore,4,Sarjapur,130000,2524,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,28800,1100,Flat,Furnished,East
+Bangalore,3,Whitefield,70000,1800,Flat,Semi-Furnished,East
+Bangalore,3,Hebbal,100000,2200,Flat,Semi-Furnished,West
+Bangalore,3,Whitefield,70000,1440,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,35999,1250,Flat,Semi-Furnished,East
+Bangalore,2,Varthur,52000,1007,Flat,Semi-Furnished,West
+Bangalore,2,Devanahalli,30000,750,Flat,Furnished,East
+Bangalore,4,Whitefield,130000,2250,Villa,Semi-Furnished,North - West
+Bangalore,3,Whitefield,38000,1300,Flat,Semi-Furnished,North - East
+Bangalore,2,Whitefield,45000,1000,Flat,Semi-Furnished,East
+Bangalore,1,Sarjapur,35000,800,Flat,Semi-Furnished,North - East
+Bangalore,3,Sarjapur,35000,1550,Villa,Semi-Furnished,North - East
+Bangalore,3,Whitefield,64000,1419,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,45000,1099,Flat,Semi-Furnished,North - East
+Bangalore,2,Whitefield,50000,1680,Flat,Semi-Furnished,East
+Bangalore,1,Whitefield,21000,640,Flat,Unfurnished,East
+Bangalore,3,Whitefield,58000,1300,Flat,Semi-Furnished,East
+Bangalore,3,Hebbal,65000,1350,Flat,Furnished,West
+Bangalore,2,Whitefield,48000,1110,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,42000,1265,Flat,Semi-Furnished,East
+Bangalore,2,Whitefield,31000,1100,Flat,Semi-Furnished,East
+Bangalore,1,Whitefield,15000,372,Flat,Furnished,East
+Bangalore,4,Whitefield,90000,2490,House,Semi-Furnished,West
+Bangalore,2,Whitefield,44000,977,Flat,Semi-Furnished,West
+Bangalore,3,Whitefield,50000,2400,House,Semi-Furnished,West
+Bangalore,3,Whitefield,71000,1795,Flat,Semi-Furnished,South - East
+Bangalore,3,Whitefield,55000,1650,Flat,Semi-Furnished,North
+Bangalore,2,Whitefield,24000,920,Flat,Semi-Furnished,North - East
+Bangalore,1,Whitefield,11000,750,Flat,Semi-Furnished,East
+Bangalore,1,Whitefield,18000,900,Flat,Semi-Furnished,North
+Bangalore,3,Whitefield,76000,1842,House,Unfurnished,North
+Bangalore,2,Whitefield,42000,1248,Flat,Semi-Furnished,North - East
+Bangalore,3,Whitefield,45000,745,Flat,Semi-Furnished,East
+Bangalore,3,Whitefield,68000,1610,Flat,Furnished,East
+Bangalore,2,Whitefield,50000,1220,Flat,Furnished,East
+Bangalore,3,Whitefield,75000,1850,Flat,Semi-Furnished,East
+Bangalore,1,Whitefield,18000,450,Flat,Semi-Furnished,North
+Bangalore,3,Whitefield,55000,1390,Flat,Furnished,East
+Bangalore,3,Whitefield,70000,1300,Flat,Semi-Furnished,North - East
+Bangalore,3,Whitefield,120000,3000,House,Semi-Furnished,East
+Bangalore,3,Whitefield,65000,1770,Flat,Semi-Furnished,East
+Mumbai,4,Kandivali East,100000,1520,Flat,Unfurnished,East
+Mumbai,2,Andheri,65000,800,Flat,Semi-Furnished,North
+Mumbai,2,Wadala,88000,675,Flat,Semi-Furnished,North
+Mumbai,2,Powai,120000,777,Flat,Semi-Furnished,East
+Mumbai,3,Kandivali East,130000,1170,Flat,Semi-Furnished,North
+Mumbai,1,Wadala,52000,340,Flat,Unfurnished,North - East
+Mumbai,2,Andheri,62000,577,Flat,Unfurnished,North
+Mumbai,2,Kandivali East,67000,720,Flat,Unfurnished,East
+Mumbai,2,Powai,160000,777,Flat,Furnished,East
+Mumbai,3,Chembur,140000,1275,Flat,Semi-Furnished,East
+Mumbai,4,Bandra,170000,1850,Flat,Unfurnished,East
+Mumbai,2,Kandivali East,54000,740,Flat,Unfurnished,East
+Mumbai,3,Goregaon,85000,800,Flat,Semi-Furnished,South - East
+Mumbai,2,Kandivali East,65000,700,Flat,Furnished,East
+Mumbai,3,Andheri,140000,1322,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali East,60000,635,Flat,Furnished,West
+Mumbai,3,Kandivali East,110000,1230,Flat,Unfurnished,East
+Mumbai,2,Goregaon,76000,905,Flat,Unfurnished,East
+Mumbai,3,Borivali,75000,1050,Flat,Furnished,East
+Mumbai,2,Mulund,64000,780,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali East,110000,770,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali East,75000,806,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali East,120000,800,Flat,Semi-Furnished,North - West
+Mumbai,2,Kandivali East,100000,700,Flat,Furnished,East
+Mumbai,2,Kandivali East,70000,950,Flat,Furnished,East
+Mumbai,3,Andheri,150000,1200,Flat,Furnished,North - West
+Mumbai,2,Kandivali East,110000,753,Flat,Unfurnished,East
+Mumbai,1,Powai,55500,390,Flat,Semi-Furnished,North - East
+Mumbai,3,Kandivali East,93000,1012,Flat,Unfurnished,North - East
+Mumbai,3,Kandivali East,130000,1060,Flat,Unfurnished,East
+Mumbai,3,Kandivali East,70000,1200,Flat,Semi-Furnished,North - East
+Mumbai,2,Andheri,74999,700,Flat,Semi-Furnished,East
+Mumbai,4,Chembur,140000,1450,Flat,Semi-Furnished,East
+Mumbai,3,Borivali,60000,845,Flat,Unfurnished,East
+Mumbai,2,Chembur,62000,700,Flat,Unfurnished,East
+Mumbai,3,Chembur,130000,1400,Flat,Unfurnished,North - East
+Mumbai,1,Powai,55000,400,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali,52000,670,Flat,Unfurnished,East
+Mumbai,3,Powai,90000,1150,Flat,Semi-Furnished,East
+Mumbai,1,Kandivali East,40000,650,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali East,90000,680,Flat,Semi-Furnished,East
+Mumbai,2,Bandra,100000,690,Flat,Furnished,East
+Mumbai,2,Kandivali East,90000,775,Flat,Semi-Furnished,East
+Mumbai,3,Kandivali East,90000,1250,Flat,Unfurnished,East
+Mumbai,3,Kandivali East,120000,1294,Flat,Furnished,East
+Mumbai,3,Kandivali,85000,1050,Flat,Unfurnished,East
+Mumbai,2,Kandivali East,99000,740,Flat,Unfurnished,East
+Mumbai,3,Goregaon,160000,1081,Flat,Semi-Furnished,East
+Mumbai,3,Powai,130000,1050,Flat,Semi-Furnished,East
+Mumbai,2,Goregaon,50000,650,Flat,Semi-Furnished,North
+Mumbai,2,Kandivali East,51000,631,Flat,Semi-Furnished,North
+Mumbai,2,Kandivali East,46000,750,Flat,Unfurnished,East
+Mumbai,1,Bandra,65000,500,Flat,Semi-Furnished,East
+Mumbai,3,Goregaon,85000,975,Flat,Semi-Furnished,West
+Mumbai,3,Mulund,76000,1031,Flat,Unfurnished,East
+Mumbai,2,Kandivali East,40000,511,Flat,Unfurnished,North - West
+Mumbai,2,Mulund,53000,710,Flat,Semi-Furnished,North - West
+Mumbai,3,Chembur,85000,950,Flat,Unfurnished,East
+Mumbai,1,Borivali,30000,415,Flat,Semi-Furnished,East
+Mumbai,1,Powai,30000,350,Flat,Unfurnished,East
+Mumbai,3,Powai,130000,785,Flat,Semi-Furnished,East
+Mumbai,2,Powai,86000,888,Flat,Semi-Furnished,North - East
+Mumbai,2,Kandivali East,53000,721,Flat,Unfurnished,West
+Mumbai,2,Powai,85000,800,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali East,75000,750,Flat,Unfurnished,East
+Mumbai,2,Worli,140000,581,Flat,Semi-Furnished,East
+Mumbai,2,Powai,80000,635,Flat,Semi-Furnished,East
+Mumbai,1,Kandivali East,36000,450,Flat,Furnished,East
+Mumbai,4,Kandivali East,130000,1600,Flat,Unfurnished,East
+Mumbai,2,Powai,70000,725,Flat,Unfurnished,East
+Mumbai,3,Powai,120000,986,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali East,51000,620,Flat,Unfurnished,East
+Mumbai,3,Powai,130000,1050,Flat,Furnished,East
+Mumbai,3,Goregaon,100000,968,Flat,Unfurnished,East
+Mumbai,3,Andheri,130000,1000,Flat,Semi-Furnished,East
+Mumbai,2,Powai,82000,590,Flat,Semi-Furnished,North - East
+Mumbai,1,Kandivali East,65000,400,Flat,Furnished,East
+Mumbai,3,Kandivali East,98000,1085,Flat,Semi-Furnished,East
+Mumbai,3,Andheri,120000,950,Flat,Unfurnished,West
+Mumbai,2,Borivali,45000,700,Flat,Semi-Furnished,North - West
+Mumbai,2,Kandivali East,60000,650,Flat,Semi-Furnished,North - East
+Mumbai,3,Mulund,65000,912,Flat,Unfurnished,North - East
+Mumbai,2,Andheri,65000,600,Flat,Unfurnished,North - East
+Mumbai,3,Kandivali East,160000,820,Flat,Semi-Furnished,East
+Mumbai,3,Kandivali East,170000,1191,Flat,Semi-Furnished,West
+Mumbai,1,Juhu,63000,510,Flat,Unfurnished,East
+Mumbai,4,Kandivali East,150000,1390,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali East,65000,700,Flat,Semi-Furnished,East
+Mumbai,2,Chembur,80000,724,Flat,Semi-Furnished,East
+Mumbai,3,Bandra,140000,1420,Flat,Furnished,East
+Mumbai,1,Kandivali East,23000,457,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali,60000,700,Flat,Unfurnished,North
+Mumbai,3,Mulund,72000,912,Flat,Semi-Furnished,North
+Mumbai,1,Borivali,35000,420,Flat,Furnished,West
+Mumbai,3,Kandivali East,160000,1700,Flat,Furnished,East
+Mumbai,2,Kandivali East,55000,750,Flat,Unfurnished,North
+Mumbai,3,Kandivali East,110000,1100,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali East,75000,950,Flat,Semi-Furnished,East
+Mumbai,1,Kandivali East,29000,490,Flat,Unfurnished,East
+Mumbai,3,Borivali,110000,1132,Flat,Unfurnished,West
+Mumbai,4,Kandivali East,140000,1250,Flat,Semi-Furnished,West
+Mumbai,3,Kandivali East,75000,914,Flat,Unfurnished,South - East
+Mumbai,3,Kandivali East,120000,1200,Flat,Furnished,North
+Mumbai,3,Wadala,170000,1086,Flat,Unfurnished,East
+Mumbai,2,Kandivali East,35000,555,Flat,Unfurnished,West
+Mumbai,1,Mulund,26000,525,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali East,52000,640,Flat,Unfurnished,East
+Mumbai,1,Kandivali East,37000,395,Flat,Unfurnished,East
+Mumbai,2,Kandivali East,58000,670,Flat,Furnished,East
+Mumbai,2,Chembur,66000,800,Flat,Semi-Furnished,East
+Mumbai,2,Chembur,95000,788,Flat,Furnished,East
+Mumbai,2,Mulund,49999,675,Flat,Furnished,North - East
+Mumbai,2,Kandivali East,46000,471,Flat,Semi-Furnished,West
+Mumbai,2,Kandivali East,75000,740,Flat,Semi-Furnished,East
+Mumbai,2,Mulund,50000,720,Flat,Unfurnished,East
+Mumbai,2,Kandivali East,60000,700,Flat,Unfurnished,South
+Mumbai,2,Kandivali East,37000,650,Flat,Semi-Furnished,North - East
+Mumbai,3,Kandivali East,75000,918,Flat,Unfurnished,East
+Mumbai,1,Powai,58000,382,Flat,Semi-Furnished,East
+Mumbai,2,Mulund,55000,660,Flat,Unfurnished,East
+Mumbai,3,Kandivali East,75000,977,Flat,Unfurnished,East
+Mumbai,3,Borivali,100000,1100,Flat,Semi-Furnished,East
+Mumbai,1,Kandivali East,45000,459,Flat,Unfurnished,East
+Mumbai,3,Kandivali East,75000,1200,Flat,Unfurnished,North - East
+Mumbai,2,Kandivali East,45000,630,Flat,Semi-Furnished,East
+Mumbai,2,Wadala,65000,710,Flat,Unfurnished,East
+Mumbai,3,Kandivali East,90000,719,Flat,Unfurnished,East
+Mumbai,2,Kandivali East,48000,860,Flat,Semi-Furnished,East
+Mumbai,2,Kandivali East,64000,784,Flat,Semi-Furnished,East
+Mumbai,2,Goregaon,60000,670,Flat,Unfurnished,East
+Mumbai,2,Kandivali East,62000,750,Flat,Furnished,East
+Mumbai,1,Kandivali East,60000,553,Flat,Unfurnished,North - East
+Mumbai,3,Kandivali East,150000,1500,Flat,Furnished,East
+Mumbai,2,Kandivali East,72000,801,Flat,Semi-Furnished,East
+Mumbai,1,Kandivali East,7000,250,Flat,Furnished,East
+Mumbai,2,Powai,67000,800,Flat,Furnished,North - East
+Mumbai,3,Mulund,64000,781,Flat,Semi-Furnished,North
+Pune,4,Hinjawadi,150000,2712,Flat,Unfurnished,West
+Pune,3,Hinjawadi,28500,1200,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,25000,750,Flat,Unfurnished,East
+Pune,2,Hinjawadi,24000,700,Flat,Unfurnished,East
+Pune,3,Hinjawadi,51000,1300,Flat,Furnished,East
+Pune,3,Viman Nagar,60000,1300,Flat,Furnished,East
+Pune,3,Kharadi,55000,1065,Flat,Semi-Furnished,East
+Pune,2,Kharadi,33000,800,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,23000,830,Flat,Unfurnished,East
+Pune,1,Hinjawadi,22000,545,Flat,Unfurnished,East
+Pune,2,Hinjawadi,25000,760,Flat,Unfurnished,East
+Pune,1,Hinjawadi,17000,451,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,22400,814,Flat,Unfurnished,North - East
+Pune,2,Hinjawadi,45000,1250,Flat,Furnished,East
+Pune,3,Hinjawadi,44500,1170,Flat,Furnished,East
+Pune,3,NIBM Road,58000,2800,Villa,Furnished,East
+Pune,3,Baner,80000,1750,Flat,Unfurnished,East
+Pune,4,Baner,160000,2350,Flat,Semi-Furnished,East
+Pune,3,Balewadi,75000,1400,Flat,Unfurnished,East
+Pune,2,Wakad,27000,800,Flat,Unfurnished,East
+Pune,2,Hinjawadi,45000,1050,Flat,Furnished,East
+Pune,3,NIBM Road,35000,1300,Flat,Unfurnished,East
+Pune,2,Hadapsar,25000,725,Flat,Unfurnished,East
+Pune,2,Hinjawadi,80000,960,Flat,Furnished,East
+Pune,3,NIBM Road,130000,2266,Flat,Furnished,East
+Pune,4,NIBM Road,75000,2700,Villa,Unfurnished,East
+Pune,2,Wakad,28000,1050,Flat,Semi-Furnished,East
+Pune,2,Undri,19999,800,Flat,Unfurnished,East
+Pune,2,Hinjawadi,36000,1000,Flat,Furnished,North
+Pune,3,Kharadi,57000,1765,Flat,Unfurnished,East
+Pune,2,Wakad,27000,795,Flat,Semi-Furnished,East
+Pune,2,Baner,39999,1570,Villa,Semi-Furnished,East
+Pune,3,Hinjawadi,77000,1300,Flat,Unfurnished,East
+Pune,2,Mundhwa,27000,726,Flat,Semi-Furnished,East
+Pune,3,Hinjawadi,65000,1500,Flat,Furnished,South
+Pune,2,Hinjawadi,25000,850,Flat,Furnished,East
+Pune,2,Hinjawadi,25000,778,Flat,Semi-Furnished,North - East
+Pune,3,Hinjawadi,47000,1330,Flat,Semi-Furnished,East
+Pune,3,Kharadi,52000,1205,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,42000,1000,Flat,Furnished,West
+Pune,2,Hinjawadi,20000,731,Flat,Semi-Furnished,East
+Pune,1,Hadapsar,15000,460,Flat,Unfurnished,East
+Pune,1,Mundhwa,17000,450,Flat,Unfurnished,East
+Pune,2,Hinjawadi,38000,947,Flat,Unfurnished,North
+Pune,2,Hinjawadi,26000,800,Flat,Unfurnished,East
+Pune,3,Hinjawadi,35000,1520,Flat,Unfurnished,East
+Pune,1,Hinjawadi,20000,572,Flat,Unfurnished,East
+Pune,2,Kharadi,50000,940,Flat,Semi-Furnished,West
+Pune,4,Hinjawadi,130000,2500,Flat,Furnished,East
+Pune,3,Hinjawadi,35000,824,Flat,Semi-Furnished,East
+Pune,2,Mundhwa,30000,1020,Flat,Semi-Furnished,East
+Pune,3,Hinjawadi,70000,2000,Villa,Furnished,East
+Pune,2,Hinjawadi,26000,800,Flat,Semi-Furnished,East
+Pune,1,Hinjawadi,24000,605,Flat,Unfurnished,East
+Pune,2,Hinjawadi,37000,700,Flat,Semi-Furnished,East
+Pune,4,Hinjawadi,120000,2500,Villa,Semi-Furnished,East
+Pune,2,Kharadi,30000,550,Flat,Semi-Furnished,East
+Pune,2,Kharadi,43000,850,Flat,Furnished,East
+Pune,3,Hinjawadi,48000,1670,Flat,Unfurnished,East
+Pune,2,Kharadi,47000,990,Flat,Unfurnished,East
+Pune,2,Hinjawadi,20050,400,Flat,Furnished,East
+Pune,2,Hinjawadi,30000,1050,Flat,Unfurnished,East
+Pune,3,Hinjawadi,47000,2200,Flat,Semi-Furnished,East
+Pune,3,Viman Nagar,85000,1690,Flat,Furnished,East
+Pune,3,Wakad,48000,2000,Flat,Furnished,East
+Pune,2,Hinjawadi,27000,900,Flat,Furnished,East
+Pune,3,Hinjawadi,50000,2400,Flat,Semi-Furnished,East
+Pune,4,Wagholi,35000,1720,Flat,Semi-Furnished,South
+Pune,3,Hinjawadi,35000,1560,Flat,Semi-Furnished,East
+Pune,2,Wagholi,27000,900,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,50000,800,Flat,Furnished,East
+Pune,1,Hinjawadi,19000,450,Flat,Unfurnished,East
+Pune,3,Baner,48000,1100,Flat,Furnished,East
+Pune,3,Hinjawadi,46000,1215,Flat,Furnished,West
+Pune,3,Kharadi,75000,2056,Flat,Unfurnished,East
+Pune,1,Viman Nagar,28000,400,Flat,Unfurnished,East
+Pune,2,Hinjawadi,23000,782,Flat,Semi-Furnished,East
+Pune,3,NIBM Road,51000,1550,Flat,Semi-Furnished,East
+Pune,3,Baner,36000,1200,Flat,Unfurnished,East
+Pune,4,Baner,85000,1900,Flat,Unfurnished,East
+Pune,3,Wagholi,28000,1378,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,26000,750,Flat,Furnished,North - East
+Pune,2,Balewadi,32000,850,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,35000,1050,Flat,Unfurnished,North
+Pune,3,Mundhwa,38000,1003,Flat,Unfurnished,West
+Pune,3,Baner,40000,1200,Flat,Semi-Furnished,East
+Pune,2,Kharadi,48000,1090,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,25000,700,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,28000,900,Flat,Furnished,West
+Pune,2,Hinjawadi,25000,650,Flat,Semi-Furnished,East
+Pune,3,Kharadi,60000,1100,Flat,Furnished,East
+Pune,3,Hinjawadi,34000,1200,Flat,Unfurnished,North
+Pune,2,Hadapsar,56000,910,Flat,Semi-Furnished,East
+Pune,2,Wagholi,32000,820,Flat,Unfurnished,East
+Pune,2,Hinjawadi,28500,750,Flat,Furnished,East
+Pune,3,Hinjawadi,70000,1350,Flat,Semi-Furnished,North - East
+Pune,2,Hinjawadi,30000,940,Flat,Unfurnished,East
+Pune,3,Hinjawadi,35000,1200,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,20000,691,Flat,Unfurnished,East
+Pune,2,Viman Nagar,45000,1150,Flat,Furnished,East
+Pune,4,Hinjawadi,150000,3200,Flat,Furnished,East
+Pune,3,Hinjawadi,52000,1200,Flat,Unfurnished,East
+Pune,3,Hinjawadi,33000,1289,Flat,Semi-Furnished,West
+Pune,2,Hinjawadi,33000,750,Flat,Unfurnished,North - East
+Pune,3,Kharadi,42000,1150,Flat,Unfurnished,East
+Pune,2,Kharadi,35000,850,Flat,Semi-Furnished,North - East
+Pune,1,Mundhwa,24000,500,Flat,Furnished,East
+Pune,2,Hinjawadi,45000,1116,Flat,Furnished,East
+Pune,2,Kharadi,37000,762,Flat,Unfurnished,West
+Pune,3,Kharadi,95000,2200,Flat,Semi-Furnished,South - East
+Pune,3,Hinjawadi,35000,1300,Flat,Unfurnished,West
+Pune,3,Hinjawadi,60000,1970,Flat,Unfurnished,East
+Pune,3,Hinjawadi,37000,1250,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,28000,753,Flat,Unfurnished,East
+Pune,2,Hinjawadi,23000,900,Flat,Semi-Furnished,East
+Pune,4,Hinjawadi,75000,1800,Flat,Unfurnished,East
+Pune,2,NIBM Road,26000,850,Flat,Unfurnished,East
+Pune,4,Baner,160000,2200,Flat,Furnished,East
+Pune,3,Hinjawadi,34000,1200,Flat,Semi-Furnished,East
+Pune,2,Baner,30000,640,Flat,Unfurnished,East
+Pune,2,Hinjawadi,30000,950,Flat,Furnished,East
+Pune,2,Viman Nagar,38000,841,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,33500,912,Flat,Furnished,East
+Pune,3,Kharadi,75000,1700,Flat,Furnished,East
+Pune,2,Viman Nagar,42000,825,Flat,Furnished,East
+Pune,2,Hinjawadi,32000,968,Flat,Semi-Furnished,East
+Pune,2,Baner,50000,926,Flat,Furnished,East
+Pune,2,Mundhwa,28000,790,Flat,Semi-Furnished,East
+Pune,1,Hinjawadi,25000,450,Flat,Furnished,East
+Pune,2,Kharadi,42000,1200,Flat,Furnished,East
+Pune,1,Hinjawadi,12000,450,Flat,Unfurnished,East
+Pune,3,Balewadi,60000,1190,Flat,Furnished,East
+Pune,2,Hinjawadi,31000,774,Flat,Semi-Furnished,East
+Pune,3,Hinjawadi,27000,890,Flat,Unfurnished,East
+Pune,3,Hinjawadi,65000,1850,Flat,Unfurnished,East
+Pune,2,Viman Nagar,38000,705,Flat,Unfurnished,East
+Pune,1,Hinjawadi,17000,450,Flat,Unfurnished,East
+Pune,2,Mundhwa,30000,905,Flat,Furnished,East
+Pune,1,Hinjawadi,18000,650,Flat,Semi-Furnished,East
+Pune,3,Baner,50000,1565,Flat,Unfurnished,East
+Pune,2,Hinjawadi,28000,900,Flat,Semi-Furnished,East
+Pune,3,Hinjawadi,30000,1558,Flat,Unfurnished,East
+Pune,3,Mundhwa,40000,1520,Flat,Unfurnished,East
+Pune,3,Mundhwa,42500,975,Flat,Semi-Furnished,North
+Pune,2,Wakad,55000,950,Flat,Furnished,East
+Pune,2,Hinjawadi,32000,780,Flat,Furnished,East
+Pune,3,Undri,39000,1512,Flat,Semi-Furnished,North
+Pune,3,Hinjawadi,30000,1100,Flat,Unfurnished,North - East
+Pune,3,Hinjawadi,29000,850,Flat,Unfurnished,East
+Pune,3,Kharadi,45000,1043,Flat,Semi-Furnished,East
+Pune,3,Kharadi,39000,851,Flat,Semi-Furnished,East
+Pune,4,Hinjawadi,70000,2200,Villa,Semi-Furnished,East
+Pune,3,Hinjawadi,30000,1100,Flat,Unfurnished,East
+Pune,2,Viman Nagar,35000,1000,Flat,Unfurnished,East
+Pune,2,Hinjawadi,18000,980,Flat,Semi-Furnished,North
+Pune,2,Whitefield,25000,812,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,25000,685,Flat,Semi-Furnished,East
+Pune,3,Hinjawadi,28000,900,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,15000,828,Flat,Furnished,East
+Pune,2,Hinjawadi,25000,658,Flat,Unfurnished,West
+Pune,3,Hinjawadi,25000,950,Flat,Furnished,East
+Pune,2,Wakad,28000,552,Flat,Unfurnished,West
+Pune,3,Wagholi,48000,2050,House,Furnished,South
+Pune,4,Hinjawadi,85000,1600,Flat,Semi-Furnished,East
+Pune,3,Hinjawadi,75000,2500,Villa,Furnished,North - East
+Pune,3,NIBM Road,48000,1375,Flat,Unfurnished,East
+Pune,2,Hinjawadi,27000,950,Flat,Semi-Furnished,East
+Pune,1,Hinjawadi,21000,400,Flat,Furnished,East
+Pune,1,Hinjawadi,14000,750,Flat,Furnished,East
+Pune,2,Mundhwa,18000,800,Flat,Furnished,East
+Pune,3,Hinjawadi,53000,1350,Flat,Furnished,East
+Pune,2,Hinjawadi,24000,800,Flat,Semi-Furnished,East
+Pune,3,Hinjawadi,36000,960,Flat,Semi-Furnished,East
+Pune,1,Hinjawadi,15000,500,Flat,Unfurnished,East
+Pune,2,Hinjawadi,27000,824,Flat,Semi-Furnished,East
+Pune,2,Hinjawadi,30000,790,Flat,Furnished,East
+Pune,3,Hadapsar,36000,1100,Flat,Semi-Furnished,East
+Pune,3,Viman Nagar,95000,1250,Flat,Furnished,East
+Pune,4,Baner,140000,2700,Flat,Furnished,East
+Pune,2,Hinjawadi,24999,699,Flat,Furnished,East
+Pune,4,Hinjawadi,50000,1900,Flat,Unfurnished,East
+Pune,2,Hinjawadi,16000,840,Flat,Unfurnished,East
+Pune,1,Viman Nagar,30000,600,Flat,Furnished,East
+Pune,2,Baner,24000,900,Flat,Unfurnished,East
+Pune,2,Hinjawadi,26000,905,Flat,Semi-Furnished,East
+Pune,3,Wagholi,35000,1424,House,Unfurnished,East
+Chennai,3,Perungudi,65000,1990,House,Semi-Furnished,East
+Chennai,3,Perungudi,45000,1614,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,150000,1930,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,35000,1155,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,60000,1600,Flat,Unfurnished,East
+Chennai,2,Perungudi,42000,1400,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,70000,1500,Apartment,Semi-Furnished,East
+Chennai,3,Perungudi,23000,998,Villa,Semi-Furnished,East
+Chennai,4,Perungudi,35000,1700,House,Unfurnished,East
+Chennai,2,Perungudi,32000,1300,House,Semi-Furnished,East
+Chennai,3,Perungudi,80000,1500,Flat,Unfurnished,North - West
+Chennai,2,Perungudi,21000,900,Villa,Semi-Furnished,West
+Chennai,3,Perungudi,30000,1400,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,25000,1214,Flat,Semi-Furnished,North
+Chennai,2,Perungudi,15000,770,Flat,Semi-Furnished,East
+Chennai,2,Perungudi,25000,650,Flat,Unfurnished,East
+Chennai,4,Perungudi,55000,2272,Flat,Semi-Furnished,North - West
+Chennai,3,Medavakkam,33500,1700,Villa,Semi-Furnished,East
+Chennai,3,Perungudi,45000,1458,Flat,Semi-Furnished,North - East
+Chennai,3,Perungudi,50000,1351,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,72000,2031,Flat,Furnished,East
+Chennai,3,Perungudi,70000,1500,Flat,Furnished,East
+Chennai,1,Perungudi,8250,380,Flat,Unfurnished,East
+Chennai,3,Perungudi,35000,2400,Villa,Semi-Furnished,North
+Chennai,2,Perungudi,6500,750,House,Unfurnished,East
+Chennai,3,Perungudi,60000,1985,Flat,Semi-Furnished,North - East
+Chennai,2,Perungudi,22000,880,Flat,Semi-Furnished,North
+Chennai,2,Perungudi,35000,900,Flat,Furnished,East
+Chennai,4,Perungudi,130000,2100,House,Semi-Furnished,North
+Chennai,3,Perungudi,55000,850,House,Semi-Furnished,North
+Chennai,3,Perungudi,40000,2300,Villa,Semi-Furnished,North
+Chennai,3,Perungudi,23000,1650,House,Unfurnished,East
+Chennai,1,Perungudi,6500,700,Flat,Furnished,East
+Chennai,3,Perungudi,45000,1100,House,Unfurnished,East
+Chennai,4,Sholinganallur,75000,2317,Flat,Semi-Furnished,North
+Chennai,2,Perungudi,40000,680,Flat,Furnished,North
+Chennai,3,Thiruvanmiyur,120000,1400,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,27500,1120,Flat,Semi-Furnished,East
+Chennai,2,Perungudi,28000,1120,Flat,Semi-Furnished,East
+Chennai,2,Perungudi,18500,1110,Flat,Semi-Furnished,East
+Chennai,2,Perungudi,26000,700,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,25000,1450,Flat,Furnished,East
+Chennai,3,Perungudi,45000,1200,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,20000,1000,Villa,Semi-Furnished,South
+Chennai,3,Perungudi,38000,1698,Flat,Semi-Furnished,East
+Chennai,3,Sholinganallur,55000,1850,Flat,Semi-Furnished,West
+Chennai,3,Perungudi,68000,1650,Flat,Unfurnished,East
+Chennai,2,Perungudi,41000,1600,House,Unfurnished,South
+Chennai,3,Perungudi,24000,1250,Flat,Furnished,North
+Chennai,3,Perungudi,120000,1200,Flat,Furnished,East
+Chennai,4,Perungudi,80000,2100,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,40000,1800,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,150000,1935,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,22000,1200,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,45000,1550,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,65000,1400,Flat,Furnished,South
+Chennai,3,Perungudi,65000,1300,Flat,Semi-Furnished,South
+Chennai,3,Perungudi,35000,2000,House,Semi-Furnished,West
+Chennai,2,Perungudi,15000,1100,House,Semi-Furnished,East
+Chennai,3,Perungudi,55000,1415,Flat,Furnished,North
+Chennai,2,Perungudi,32000,900,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,22000,1450,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,150000,1850,Flat,Furnished,East
+Chennai,2,Perungudi,65000,2500,House,Furnished,South
+Chennai,2,Perungudi,20000,650,Flat,Semi-Furnished,East
+Chennai,1,Perungudi,10000,600,House,Semi-Furnished,East
+Chennai,3,Perungudi,78000,1891,Flat,Furnished,East
+Chennai,3,Perungudi,30000,1300,Villa,Furnished,East
+Chennai,2,Perungudi,39900,1350,House,Semi-Furnished,South
+Chennai,2,Perungudi,35000,940,Flat,Furnished,East
+Chennai,3,Perungudi,95000,2661,Flat,Semi-Furnished,East
+Chennai,3,Pallavaram,33000,1231,Flat,Furnished,East
+Chennai,2,Perungudi,18000,1450,House,Semi-Furnished,North
+Chennai,4,Perungudi,130000,2500,Flat,Semi-Furnished,North - East
+Chennai,4,Perungudi,45000,1800,Flat,Semi-Furnished,North
+Chennai,2,Perungudi,45000,2000,Villa,Semi-Furnished,East
+Chennai,4,Perungudi,78000,2230,Villa,Semi-Furnished,North
+Chennai,3,Perungudi,70000,1749,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,6000,2300,Flat,Furnished,East
+Chennai,3,Perungudi,70000,2100,House,Semi-Furnished,East
+Chennai,3,Perungudi,70000,1150,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,50000,2150,Flat,Semi-Furnished,North
+Chennai,4,Perungudi,170000,2200,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,55000,1800,Flat,Furnished,East
+Chennai,3,Perungudi,46000,2000,Flat,Furnished,East
+Chennai,2,Perungudi,20000,750,Flat,Unfurnished,North
+Chennai,3,Perungudi,45000,1564,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,75000,1400,Flat,Semi-Furnished,South - East
+Chennai,3,Perungudi,65000,1450,House,Semi-Furnished,West
+Chennai,3,Perungudi,150000,2500,House,Furnished,North
+Chennai,3,Perungudi,140000,2400,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,50000,1829,Flat,Unfurnished,North
+Chennai,3,Porur,45000,1568,House,Unfurnished,North
+Chennai,2,Perungudi,15000,686,Flat,Semi-Furnished,South
+Chennai,2,Pallikaranai,22000,905,Flat,Semi-Furnished,South
+Chennai,3,Perungudi,140000,1545,Flat,Semi-Furnished,East
+Chennai,2,Perungudi,20000,1000,Flat,Unfurnished,North
+Chennai,4,Perungudi,55000,1550,Flat,Furnished,East
+Chennai,1,Perungudi,12000,550,Flat,Semi-Furnished,East
+Chennai,2,Perungudi,35000,1250,Flat,Furnished,East
+Chennai,3,Perungudi,58000,1938,Flat,Furnished,East
+Chennai,2,Perungudi,20000,650,House,Unfurnished,East
+Chennai,3,Thiruvanmiyur,7000,1000,Flat,Semi-Furnished,North
+Chennai,2,Perungudi,30000,800,House,Semi-Furnished,East
+Chennai,1,Perungudi,8500,400,House,Unfurnished,South - East
+Chennai,2,Perungudi,50000,800,Flat,Unfurnished,West
+Chennai,3,Medavakkam,42000,1460,Flat,Unfurnished,East
+Chennai,3,Perungudi,30000,1000,Flat,Furnished,East
+Chennai,3,Perungudi,65000,1600,Flat,Semi-Furnished,East
+Chennai,1,Perungudi,12000,430,Flat,Unfurnished,West
+Chennai,3,Perungudi,34000,2200,House,Semi-Furnished,North
+Chennai,4,Perungudi,150000,2300,Flat,Furnished,South -West
+Chennai,3,Perungudi,110000,2073,Flat,Semi-Furnished,East
+Chennai,1,Perungudi,30000,549,Flat,Furnished,South
+Chennai,3,Perungudi,120000,1450,Flat,Semi-Furnished,East
+Chennai,2,Perungudi,70000,1311,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,130000,1950,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,72000,2000,Flat,Semi-Furnished,South
+Chennai,2,Perungudi,25000,965,Flat,Semi-Furnished,East
+Chennai,3,Kelambakkam,30000,1243,Flat,Furnished,West
+Chennai,4,Perungudi,50000,3100,House,Unfurnished,East
+Chennai,4,Perungudi,62000,2077,Flat,Semi-Furnished,West
+Chennai,3,Perungudi,45000,1600,Flat,Furnished,East
+Chennai,3,Perungudi,30000,1800,Villa,Semi-Furnished,East
+Chennai,2,Perungudi,15000,1000,House,Semi-Furnished,East
+Chennai,3,Perungudi,95000,1900,Flat,Unfurnished,North
+Chennai,3,Perungudi,130000,1900,Flat,Semi-Furnished,East
+Chennai,2,Perungudi,45000,1050,Flat,Semi-Furnished,West
+Chennai,3,Perungudi,130000,1800,Flat,Semi-Furnished,South
+Chennai,2,Perungudi,25000,700,Flat,Furnished,East
+Chennai,1,Perungudi,12000,550,House,Semi-Furnished,East
+Chennai,4,Perungudi,150000,2380,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,72000,2200,Flat,Semi-Furnished,East
+Chennai,4,Perungudi,170000,3000,Flat,Unfurnished,East
+Chennai,2,Perungudi,22000,1300,House,Semi-Furnished,North
+Chennai,3,Perungudi,37000,1700,Flat,Semi-Furnished,West
+Chennai,2,Perungudi,32000,1336,Flat,Semi-Furnished,East
+Chennai,2,Perungudi,15000,900,Flat,Semi-Furnished,North
+Chennai,3,Perungudi,150000,1925,Flat,Unfurnished,North - East
+Chennai,2,Guduvancheri,12000,859,Flat,Unfurnished,North
+Chennai,3,Perungudi,85000,1800,Flat,Semi-Furnished,West
+Chennai,2,Perungudi,19000,975,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,52000,1564,Flat,Furnished,West
+Chennai,3,Perungudi,140000,2000,Flat,Semi-Furnished,West
+Chennai,3,Padur,40000,800,Flat,Furnished,South - East
+Chennai,3,Perungudi,60000,2100,Flat,Semi-Furnished,East
+Chennai,2,Perungudi,35000,950,Flat,Semi-Furnished,North
+Chennai,2,Perungudi,160000,1250,Flat,Furnished,South
+Chennai,4,Perungudi,50000,1900,House,Semi-Furnished,East
+Chennai,2,Perungudi,17000,700,Flat,Unfurnished,North
+Chennai,1,Perungudi,27000,600,Flat,Furnished,East
+Chennai,2,Perungudi,26000,964,Flat,Semi-Furnished,South
+Chennai,3,Perungudi,100000,2100,Flat,Semi-Furnished,East
+Chennai,2,Perungudi,21000,1000,Flat,Semi-Furnished,South
+Chennai,4,Perungudi,150000,1703,Flat,Semi-Furnished,East
+Chennai,3,Perungudi,45000,1669,Flat,Semi-Furnished,North - East
+Chennai,4,Perungudi,50000,2100,Flat,Semi-Furnished,North
